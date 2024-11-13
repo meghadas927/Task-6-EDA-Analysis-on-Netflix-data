@@ -16,31 +16,31 @@ RESPONSIBILITY:
 -
 •	Top 10 Popular Genres on Netflix
 
-•	Identify and rank the genres with the highest viewership or count on Netflix.
+	Identify and rank the genres with the highest viewership or count on Netflix.
 
 •	Top 5 Highest IMDb-Rated Movies
 
-•	Determine the top five movies with the highest IMDb scores available on Netflix.
+	Determine the top five movies with the highest IMDb scores available on Netflix.
 
 •	Most Common Languages
 
-•	Analyze and list the most frequently used languages in Netflix's movie catalog.
+	Analyze and list the most frequently used languages in Netflix's movie catalog.
 
 •	Languages with Highest-Rated Content
 
-•	Explore which languages have the highest average IMDb scores for content on Netflix.
+	Explore which languages have the highest average IMDb scores for content on Netflix.
 
 •	Trends in Movie Releases Over Time
 
-•	Examine how the annual count of movie releases has evolved over the years on Netflix.
+	Examine how the annual count of movie releases has evolved over the years on Netflix.
 
 •	Movies with Longest Average Runtime
 
-•	Find and rank movies based on the highest average runtime to identify longer-format films on Netflix.
+	Find and rank movies based on the highest average runtime to identify longer-format films on Netflix.
 
 •	Most Common Release Day
 
-•	Discover the day of the week that sees the highest number of Netflix releases.
+	Discover the day of the week that sees the highest number of Netflix releases.
 
 **Conclusions-**
 
