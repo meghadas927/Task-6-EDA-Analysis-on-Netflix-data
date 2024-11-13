@@ -45,4 +45,5 @@ RESPONSIBILITY:
 **Conclusions-**
 
 Based on the exploratory data analysis (EDA) of the Netflix dataset, we've uncovered several key insights:
+
 Netflix’s content strategy emphasizes a broad spectrum of genres, with a notable focus on English-language films and documentaries, highlighting their significant presence on the platform. Additionally, the release schedule is carefully aligned with audience behavior, as the highest number of movies debut on Fridays, likely to maximize engagement over the weekend. This pattern suggests a well-timed approach to content delivery, designed to capture the peak viewing periods of its global audience.
